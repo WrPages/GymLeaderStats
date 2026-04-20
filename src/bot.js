@@ -15,8 +15,8 @@ if (!TOKEN) {
 const statsUrl = process.env.USERS;
 const onlineUrl = process.env.ONLINE_IDS;
 
-const ppmGistId = "b0e828dae39ce094d41728804f13e35c";
-const ppmFileName = "trainer_ppm.json";
+const ppmGistId = "cf32fa21075a04e016b3e98a1f1912b9";
+const ppmFileName = "gym_leader_ppm.json";
 
 const gpUrl = process.env.GP_STATS;
 
